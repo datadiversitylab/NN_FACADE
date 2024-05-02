@@ -11,7 +11,11 @@ To perform white balance correction, navigate to the `AWB_preprocessed_model` fo
 ```bash
 python AWB_preprocessed.py
 ```
+### Image segmentation
 To perform image segmentation run the script:
 ```bash
 python facades.py
 ```
+# Setup your environment
+### Preprocession
+### Image segmentation
