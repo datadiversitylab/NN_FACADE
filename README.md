@@ -29,3 +29,32 @@ Create your conda environment with the name you select
 conda create -n name_of_your_environment python=3.11
 ```
 Install the required pacakage to your environment There is a [building_facades_env.yml](https://github.com/SHL47/INFO698_SHIHHSUAN_LO_Capstone/blob/main/building_facades_env.yml) file you can use to replicate the conda environment!
+
+# Citation
+### Dataset
+```bash
+@article{zamir2014image,
+  title={Image Geo-localization Based on Multiple Nearest Neighbor Feature Matching using Generalized Graphs},
+  author={Zamir, Amir Roshan and Shah, Mubarak},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2014}
+}
+```
+### Preprocession
+```bash
+@inproceedings{afifi2020deepWB,
+  title={Deep White-Balance Editing},
+  author={Afifi, Mahmoud and Brown, Michael S},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2020}
+}
+```
+### Image segmentation
+```bash
+@article{deeplab2_2021,
+  author={Mark Weber and Huiyu Wang and Siyuan Qiao and Jun Xie and Maxwell D. Collins and Yukun Zhu and Liangzhe Yuan and Dahun Kim and Qihang Yu and Daniel Cremers and Laura Leal-Taixe and Alan L. Yuille and Florian Schroff and Hartwig Adam and Liang-Chieh Chen},
+  title={{DeepLab2: A TensorFlow Library for Deep Labeling}},
+  journal={arXiv: 2106.09748},
+  year={2021}
+}
+```
