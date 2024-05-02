@@ -6,7 +6,7 @@ In this project, I focus on extracting building facades from street view imagery
 
 This section outlines the steps to preprocess images and perform image segmentation using the provided scripts.
 
-## Preprocessing Image White Balance Correction
+### Preprocessing Image White Balance Correction
 To perform white balance correction, navigate to the `AWB_preprocessed_model` folder and run the script:
 ```bash
 python AWB_preprocessed.py
