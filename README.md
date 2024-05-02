@@ -22,10 +22,10 @@ Create your conda environment with the name you select
 ```bash
 conda create -n name_of_your_environment python=3.12
 ```
-Install the required pacakage to your environment There is a [white_balance_env.yml] (https://github.com/SHL47/INFO698_SHIHHSUAN_LO_Capstone/blob/main/white_balance_env.yml) file you can use to replicate the conda environment!
+Install the required pacakage to your environment There is a [white_balance_env.yml](https://github.com/SHL47/INFO698_SHIHHSUAN_LO_Capstone/blob/main/white_balance_env.yml) file you can use to replicate the conda environment!
 ### Image segmentation
 Create your conda environment with the name you select
 ```bash
 conda create -n name_of_your_environment python=3.11
 ```
-Install the required pacakage to your environment There is a [building_facades_env.yml](https://github.com/SHL47/INFO698_SHIHHSUAN_LO_Capstone/blob/main/building_facades_env.yml)file you can use to replicate the conda environment!
+Install the required pacakage to your environment There is a [building_facades_env.yml](https://github.com/SHL47/INFO698_SHIHHSUAN_LO_Capstone/blob/main/building_facades_env.yml) file you can use to replicate the conda environment!
