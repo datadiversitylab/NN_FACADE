@@ -16,6 +16,16 @@ To perform image segmentation run the script:
 ```bash
 python facades.py
 ```
-# Setup your environment
+# Setup your Conda environment to run code locally
 ### Preprocession
+Create your conda environment with the name you select
+```bash
+conda create -n name_of_your_environment python=3.12
+```
+Install the required pacakage to your environment There is a environment.yml file you can use to replicate the conda environment!
 ### Image segmentation
+Create your conda environment with the name you select
+```bash
+conda create -n name_of_your_environment python=3.11
+```
+Install the required pacakage to your environment There is a environment.yml file you can use to replicate the conda environment!
