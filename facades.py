@@ -914,7 +914,7 @@ LOADED_MODEL = tf.saved_model.load(os.path.join(model_dir, MODEL_NAME))
 
 
 
-image_directory = 'AWB_preprocessed_DataSet_im'
+image_directory = 'preprocessed_im'
 processed_image_directory = 'facade_image' 
 color_data_directory = 'facade_CSV' 
 
